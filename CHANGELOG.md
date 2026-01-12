@@ -1,3 +1,7 @@
+#### 3.0.2 (2026-01-12)
+
+**fix:** Controller Firmware Strin 6.4.54 -> 06.4.54
+
 #### 3.0.1 (2023-04-01)
 
 **fix:** issue with losing connection after restart
