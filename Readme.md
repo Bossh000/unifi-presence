@@ -8,5 +8,8 @@ For documentation check the [Wiki]
 Fixed Error Message Version to low when 10.x.x 
 
 Thanks to:
-Author: Ronald Marske "LoxYourLife" https://github.com/LoxYourLife
-Bug Fix: Stefan668 (https://www.loxforum.com/member/7922-stefan668)
+Author: 
+Ronald Marske "LoxYourLife" https://github.com/LoxYourLife
+
+Bug Fix: 
+Stefan668 (https://www.loxforum.com/member/7922-stefan668)
