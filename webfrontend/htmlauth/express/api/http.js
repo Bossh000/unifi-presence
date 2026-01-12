@@ -41,7 +41,7 @@ const saveConfig = requestUtils.unifiRequestWithError(config, async (req, res) =
 const getStats = (_) =>
   requestUtils.unifiRequestWithError(config, async (req, res) => {
     const { version, deviceType } = await uniFi.getSysinfo();
-    if (version < '6.4.54') {
+    if (version < '06.4.54') {
       return res.json({ version, versionError: true });
     }
     const health = await uniFi.health();
